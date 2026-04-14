@@ -9,9 +9,9 @@ radio telescope data, while ensuring the model learns real astrophysical
 properties rather than noise artifacts.
 
 ## Files
-- HTRU_2.csv     - data set
-- EDA.ipynb      - data exploration and preprocessing
-- Model,ipynb    - model trainning and development   
-- hyper tuning   - model evaluation and optimization
+- HTRU_2.csv           - data set
+- EDA.ipynb            - data exploration and preprocessing
+- Model.ipynb          - model trainning and development   
+- hyper tuning.ipynb   - model evaluation and optimization
 
 
